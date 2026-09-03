@@ -1,0 +1,15 @@
+[package]
+name = "moix"
+version = "0.0.1"
+edition = "2024"
+authors = ["Moix Dev <dev@moix.cc>"]
+description = "Programming language"
+categories = []
+repository = "https://github.com/moixcc/moix"
+readme = "README.md"
+license = "MIT"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]

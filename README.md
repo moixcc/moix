@@ -1,2 +1,1 @@
-# moix
-Programming language
+# MOIX

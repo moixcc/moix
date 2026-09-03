@@ -1,0 +1,2 @@
+/// Structure
+pub struct MOIX {}
